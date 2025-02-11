@@ -1,0 +1,12 @@
+C:\Users\thiago.bsouza13\source\repos\DreamGame\DreamGame\obj\Debug\DreamGame.csproj.AssemblyReference.cache
+C:\Users\thiago.bsouza13\source\repos\DreamGame\DreamGame\obj\Debug\DreamGame.Form1.resources
+C:\Users\thiago.bsouza13\source\repos\DreamGame\DreamGame\obj\Debug\DreamGame.Properties.Resources.resources
+C:\Users\thiago.bsouza13\source\repos\DreamGame\DreamGame\obj\Debug\DreamGame.csproj.GenerateResource.cache
+C:\Users\thiago.bsouza13\source\repos\DreamGame\DreamGame\obj\Debug\DreamGame.csproj.CoreCompileInputs.cache
+C:\Users\thiago.bsouza13\source\repos\DreamGame\DreamGame\bin\Debug\DreamGame.exe.config
+C:\Users\thiago.bsouza13\source\repos\DreamGame\DreamGame\bin\Debug\DreamGame.exe
+C:\Users\thiago.bsouza13\source\repos\DreamGame\DreamGame\bin\Debug\DreamGame.pdb
+C:\Users\thiago.bsouza13\source\repos\DreamGame\DreamGame\obj\Debug\DreamGame.exe
+C:\Users\thiago.bsouza13\source\repos\DreamGame\DreamGame\obj\Debug\DreamGame.pdb
+C:\Users\thiago.bsouza13\source\repos\DreamGame\DreamGame\obj\Debug\DreamGame.Cadastrar_Produtos.resources
+C:\Users\thiago.bsouza13\source\repos\DreamGame\DreamGame\obj\Debug\DreamGame.Menu.resources
